@@ -36,12 +36,8 @@ This app uses Microsoft's **devcon** utility (embedded in the executable) to res
 
 ## Changelog | Lịch sử cập nhật
 
-- **1.0.2.2**: Improved active device detection method.  
-- **1.0.2.0**: Added device selection for multiple NVIDIA GPUs; minor fixes.  
-- **1.0.1.1**: Fixed driver restart verification.  
-- **1.0.1.0**: Improved device search and driver restart reliability; reduced executable size.  
-- **1.0.0.0**: Initial release.
-
+- **1.0.2.2**: Improved active device detection method.
+  
 ---
 
 ## Download | Tải về
